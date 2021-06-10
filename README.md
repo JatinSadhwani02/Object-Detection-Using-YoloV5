@@ -12,3 +12,5 @@ Download dataset : https://drive.google.com/drive/folders/1U962g4vqOPdCsJBoij5Fl
 <h1>Test image</h1>
 
 <img src="custom_pred_img.jpg" height=400 width=500 />
+
+<h2>YoloV5</h2>
